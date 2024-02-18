@@ -5,5 +5,5 @@ Most socialfi projects currently have similar functionalities to traditional Web
 
 To address the credibility issue of social network information, we plan to use ETH staking to prove the credibility of social messages. Users choose the amount and duration of their stake, post messages (allowing external links such as Twitter), stake a certain amount of ETH as proof of the message's credibility. If the stake is not challenged within the lock-up period, users retrieve their ETH and receive project Token $ET as a reward based on the message's access and interaction metrics. If challenged and the message is debunked, the staked ETH will be forfeited as a penalty. The profit model for challengers and trusters is still under consideration and involves complex game theory.
 
-Why Blast?
+## Why Blast?
 Blast allows users to participate in the EthTrust social network trust protocol while earning staking rewards in ETH will significantly increase user engagement with the protocol.
